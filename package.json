@@ -1,6 +1,6 @@
 {
   "name": "amorph-base64",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "Amorph converters for base64",
   "main": "index.js",
   "directories": {
